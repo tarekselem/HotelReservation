@@ -1,13 +1,16 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ViewModels\GuestAccount\DTO\" />
     <Folder Include="ViewModels\GuestAccount\BindingModels\" />
-    <Folder Include="ViewModels\GuestAccount\" />
+    <Folder Include="ViewModels\GuestAccount\DTO\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.ComponentModel.Annotations" Version="4.4.1" />
   </ItemGroup>
 
 </Project>

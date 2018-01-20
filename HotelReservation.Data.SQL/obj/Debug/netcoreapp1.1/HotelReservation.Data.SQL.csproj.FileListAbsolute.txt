@@ -1,7 +1,0 @@
-E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.SQL\bin\Debug\netcoreapp1.1\HotelReservation.Data.SQL.deps.json
-E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.SQL\bin\Debug\netcoreapp1.1\HotelReservation.Data.SQL.dll
-E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.SQL\bin\Debug\netcoreapp1.1\HotelReservation.Data.SQL.pdb
-E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.SQL\obj\Debug\netcoreapp1.1\HotelReservation.Data.SQL.csproj.CoreCompileInputs.cache
-E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.SQL\obj\Debug\netcoreapp1.1\HotelReservation.Data.SQL.AssemblyInfo.cs
-E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.SQL\obj\Debug\netcoreapp1.1\HotelReservation.Data.SQL.dll
-E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.SQL\obj\Debug\netcoreapp1.1\HotelReservation.Data.SQL.pdb

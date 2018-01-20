@@ -1,0 +1,8 @@
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Common\bin\Debug\netstandard2.0\HotelReservation.Data.Common.deps.json
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Common\bin\Debug\netstandard2.0\HotelReservation.Data.Common.dll
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Common\bin\Debug\netstandard2.0\HotelReservation.Data.Common.pdb
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Common\obj\Debug\netstandard2.0\HotelReservation.Data.Common.csproj.CoreCompileInputs.cache
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Common\obj\Debug\netstandard2.0\HotelReservation.Data.Common.AssemblyInfoInputs.cache
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Common\obj\Debug\netstandard2.0\HotelReservation.Data.Common.AssemblyInfo.cs
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Common\obj\Debug\netstandard2.0\HotelReservation.Data.Common.dll
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Common\obj\Debug\netstandard2.0\HotelReservation.Data.Common.pdb
