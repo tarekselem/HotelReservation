@@ -6,3 +6,4 @@ E:\Source Code\Repositories\HotelReservation\HotelReservation.Models\obj\Debug\n
 E:\Source Code\Repositories\HotelReservation\HotelReservation.Models\obj\Debug\netstandard2.0\HotelReservation.Models.AssemblyInfo.cs
 E:\Source Code\Repositories\HotelReservation\HotelReservation.Models\obj\Debug\netstandard2.0\HotelReservation.Models.dll
 E:\Source Code\Repositories\HotelReservation\HotelReservation.Models\obj\Debug\netstandard2.0\HotelReservation.Models.pdb
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Models\obj\Debug\netstandard2.0\HotelReservation.Models.csprojResolveAssemblyReference.cache
