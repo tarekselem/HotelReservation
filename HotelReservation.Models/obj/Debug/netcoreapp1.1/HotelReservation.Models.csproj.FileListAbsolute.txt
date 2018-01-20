@@ -1,0 +1,8 @@
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Models\bin\Debug\netcoreapp1.1\HotelReservation.Models.deps.json
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Models\bin\Debug\netcoreapp1.1\HotelReservation.Models.dll
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Models\bin\Debug\netcoreapp1.1\HotelReservation.Models.pdb
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Models\obj\Debug\netcoreapp1.1\HotelReservation.Models.csprojResolveAssemblyReference.cache
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Models\obj\Debug\netcoreapp1.1\HotelReservation.Models.csproj.CoreCompileInputs.cache
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Models\obj\Debug\netcoreapp1.1\HotelReservation.Models.AssemblyInfo.cs
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Models\obj\Debug\netcoreapp1.1\HotelReservation.Models.dll
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Models\obj\Debug\netcoreapp1.1\HotelReservation.Models.pdb

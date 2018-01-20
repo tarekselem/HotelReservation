@@ -4,4 +4,10 @@
     <TargetFramework>netcoreapp1.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="ViewModels\GuestAccount\DTO\" />
+    <Folder Include="ViewModels\GuestAccount\BindingModels\" />
+    <Folder Include="ViewModels\GuestAccount\" />
+  </ItemGroup>
+
 </Project>

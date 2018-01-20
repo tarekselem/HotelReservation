@@ -1,0 +1,10 @@
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Common\bin\Debug\netcoreapp1.1\HotelReservation.Data.Common.deps.json
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Common\bin\Debug\netcoreapp1.1\HotelReservation.Data.Common.dll
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Common\bin\Debug\netcoreapp1.1\HotelReservation.Data.Common.pdb
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Common\obj\Debug\netcoreapp1.1\HotelReservation.Data.Common.csprojResolveAssemblyReference.cache
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Common\obj\Debug\netcoreapp1.1\HotelReservation.Data.Common.csproj.CoreCompileInputs.cache
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Common\obj\Debug\netcoreapp1.1\HotelReservation.Data.Common.AssemblyInfo.cs
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Common\obj\Debug\netcoreapp1.1\HotelReservation.Data.Common.dll
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Common\obj\Debug\netcoreapp1.1\HotelReservation.Data.Common.pdb
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Common\bin\Debug\netcoreapp1.1\HotelReservation.Models.dll
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Common\bin\Debug\netcoreapp1.1\HotelReservation.Models.pdb
