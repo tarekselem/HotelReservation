@@ -1,15 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
-using System.Text;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace HotelReservation.Models.Entities
 {
     public class BookReservation:BaseEntity
     {
         [Required]
-        public Guid RoomTypeId { get; set; }
+        public int RoomTypeId { get; set; }
         [Required]
         public string RoomeNumber { get; set; }
         [Required,DefaultValue(0)]
@@ -17,7 +16,7 @@ namespace HotelReservation.Models.Entities
         [Required, DefaultValue(0)]
         public decimal CancellationFeeAmount { get; set; }
         [Required]
-        public Guid GuestAccountId { get; set; }
+        public int GuestAccountId { get; set; }
         [Required]
         public DateTime ArrivalDate { get; set; }
         [Required]
@@ -30,5 +29,10 @@ namespace HotelReservation.Models.Entities
         public bool IsDepositePaid { get; set; }
         [DefaultValue(false)]
         public bool IsCanceled { get; set; }
+
+        [ForeignKey("RoomTypeId")]
+        public virtual RoomType RoomType { get; set; }
+        [ForeignKey("GuestAccountId")]
+        public virtual GuestAccount GuestAccount { get; set; }
     }
 }

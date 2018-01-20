@@ -7,13 +7,12 @@ namespace HotelReservation.Models
     {
         protected BaseEntity()
         {
-            Id = new Guid();
             CreatedOn = DateTime.Now;
             ModifiedOn = DateTime.Now;
         }
 
         [Key]
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         [Required]
         public DateTime CreatedOn { get; set; }
         [Required]
