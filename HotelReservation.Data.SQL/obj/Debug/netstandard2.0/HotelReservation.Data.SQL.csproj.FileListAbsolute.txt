@@ -1,0 +1,15 @@
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.SQL\bin\Debug\netstandard2.0\HotelReservation.Data.SQL.deps.json
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.SQL\bin\Debug\netstandard2.0\HotelReservation.Data.SQL.dll
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.SQL\bin\Debug\netstandard2.0\HotelReservation.Data.SQL.pdb
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.SQL\obj\Debug\netstandard2.0\HotelReservation.Data.SQL.csproj.CoreCompileInputs.cache
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.SQL\obj\Debug\netstandard2.0\HotelReservation.Data.SQL.AssemblyInfoInputs.cache
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.SQL\obj\Debug\netstandard2.0\HotelReservation.Data.SQL.AssemblyInfo.cs
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.SQL\obj\Debug\netstandard2.0\HotelReservation.Data.SQL.dll
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.SQL\obj\Debug\netstandard2.0\HotelReservation.Data.SQL.pdb
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.SQL\obj\Debug\netstandard2.0\HotelReservation.Data.SQL.csprojResolveAssemblyReference.cache
+C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.SQL\bin\Debug\netstandard2.0\HotelReservation.Data.SQL.deps.json
+C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.SQL\bin\Debug\netstandard2.0\HotelReservation.Data.SQL.dll
+C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.SQL\bin\Debug\netstandard2.0\HotelReservation.Data.SQL.pdb
+C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.SQL\obj\Debug\netstandard2.0\HotelReservation.Data.SQL.AssemblyInfo.cs
+C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.SQL\obj\Debug\netstandard2.0\HotelReservation.Data.SQL.dll
+C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.SQL\obj\Debug\netstandard2.0\HotelReservation.Data.SQL.pdb

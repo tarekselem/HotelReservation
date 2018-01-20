@@ -1,0 +1,24 @@
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Repositories\obj\Debug\netstandard2.0\HotelReservation.Data.Repositories.csprojResolveAssemblyReference.cache
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Repositories\obj\Debug\netstandard2.0\HotelReservation.Data.Repositories.csproj.CoreCompileInputs.cache
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Repositories\obj\Debug\netstandard2.0\HotelReservation.Data.Repositories.AssemblyInfoInputs.cache
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Repositories\obj\Debug\netstandard2.0\HotelReservation.Data.Repositories.AssemblyInfo.cs
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Repositories\bin\Debug\netstandard2.0\HotelReservation.Data.Repositories.deps.json
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Repositories\bin\Debug\netstandard2.0\HotelReservation.Data.Repositories.dll
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Repositories\bin\Debug\netstandard2.0\HotelReservation.Data.Repositories.pdb
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Repositories\bin\Debug\netstandard2.0\HotelReservation.Data.Common.dll
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Repositories\bin\Debug\netstandard2.0\HotelReservation.Models.dll
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Repositories\bin\Debug\netstandard2.0\HotelReservation.Data.Common.pdb
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Repositories\bin\Debug\netstandard2.0\HotelReservation.Models.pdb
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Repositories\obj\Debug\netstandard2.0\HotelReservation.Data.Repositories.dll
+E:\Source Code\Repositories\HotelReservation\HotelReservation.Data.Repositories\obj\Debug\netstandard2.0\HotelReservation.Data.Repositories.pdb
+C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.Repositories\bin\Debug\netstandard2.0\HotelReservation.Data.Repositories.deps.json
+C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.Repositories\bin\Debug\netstandard2.0\HotelReservation.Data.Repositories.dll
+C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.Repositories\bin\Debug\netstandard2.0\HotelReservation.Data.Repositories.pdb
+C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.Repositories\bin\Debug\netstandard2.0\HotelReservation.Data.Common.dll
+C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.Repositories\bin\Debug\netstandard2.0\HotelReservation.Models.dll
+C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.Repositories\bin\Debug\netstandard2.0\HotelReservation.Data.Common.pdb
+C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.Repositories\bin\Debug\netstandard2.0\HotelReservation.Models.pdb
+C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.Repositories\obj\Debug\netstandard2.0\HotelReservation.Data.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.Repositories\obj\Debug\netstandard2.0\HotelReservation.Data.Repositories.AssemblyInfo.cs
+C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.Repositories\obj\Debug\netstandard2.0\HotelReservation.Data.Repositories.dll
+C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.Repositories\obj\Debug\netstandard2.0\HotelReservation.Data.Repositories.pdb
