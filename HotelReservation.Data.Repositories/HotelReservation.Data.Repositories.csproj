@@ -13,4 +13,9 @@
     <ProjectReference Include="..\HotelReservation.Models\HotelReservation.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Implementations\" />
+    <Folder Include="Interfaces\" />
+  </ItemGroup>
+
 </Project>

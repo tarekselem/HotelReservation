@@ -13,3 +13,11 @@ C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.S
 C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.SQL\obj\Debug\netstandard2.0\HotelReservation.Data.SQL.AssemblyInfo.cs
 C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.SQL\obj\Debug\netstandard2.0\HotelReservation.Data.SQL.dll
 C:\Users\thewh\Desktop\HotelReservation-feature-skeleton\HotelReservation.Data.SQL\obj\Debug\netstandard2.0\HotelReservation.Data.SQL.pdb
+D:\HotelReservation\HotelReservation.Data.SQL\bin\Debug\netstandard2.0\HotelReservation.Data.SQL.deps.json
+D:\HotelReservation\HotelReservation.Data.SQL\bin\Debug\netstandard2.0\HotelReservation.Data.SQL.dll
+D:\HotelReservation\HotelReservation.Data.SQL\bin\Debug\netstandard2.0\HotelReservation.Data.SQL.pdb
+D:\HotelReservation\HotelReservation.Data.SQL\obj\Debug\netstandard2.0\HotelReservation.Data.SQL.csproj.CoreCompileInputs.cache
+D:\HotelReservation\HotelReservation.Data.SQL\obj\Debug\netstandard2.0\HotelReservation.Data.SQL.AssemblyInfoInputs.cache
+D:\HotelReservation\HotelReservation.Data.SQL\obj\Debug\netstandard2.0\HotelReservation.Data.SQL.AssemblyInfo.cs
+D:\HotelReservation\HotelReservation.Data.SQL\obj\Debug\netstandard2.0\HotelReservation.Data.SQL.dll
+D:\HotelReservation\HotelReservation.Data.SQL\obj\Debug\netstandard2.0\HotelReservation.Data.SQL.pdb

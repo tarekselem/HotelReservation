@@ -1,18 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using HotelReservation.Models.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace HotelReservation.Data.Common
 {
     public class HotelContext : DbContext
     {
-        public HotelContext(DbContextOptions<SchoolContext> options) : base(options)
+        public HotelContext(DbContextOptions options) : base(options)
         {
         }
 
-        public DbSet<Course> Courses { get; set; }
-        public DbSet<Enrollment> Enrollments { get; set; }
-        public DbSet<Student> Students { get; set; }
+        public DbSet<DtoGuest> Guests { get; set; }
+        public DbSet<DtoReservation> Reservations { get; set; }
+        public DbSet<DtoRoom> Rooms { get; set; }
+        public DbSet<DtoRoomType> RoomTypes { get; set; }
     }
 }
