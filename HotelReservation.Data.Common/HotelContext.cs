@@ -1,7 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
-using HotelReservation.Models.Entities;
+﻿using HotelReservation.Models.Entities;
+using Microsoft.EntityFrameworkCore;
 
-namespace HotelReservation.API
+namespace HotelReservation.Data.Common
 {
     public class HotelContext : DbContext
     {

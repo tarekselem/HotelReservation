@@ -1,15 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using HotelReservation.Bo;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Options;
-using HotelReservation.Models;
-using Microsoft.EntityFrameworkCore;
 
 namespace HotelReservation.API
 {
@@ -26,9 +19,7 @@ namespace HotelReservation.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
-            /////// SystemConfig
-            var connection = Properties.Resources.ConnectionString;
-            services.AddDbContext<HotelContext>(options => options.UseSqlServer(connection));
+            SystemConfig.ConfigureDb(services, Properties.Resources.ConnectionString);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
