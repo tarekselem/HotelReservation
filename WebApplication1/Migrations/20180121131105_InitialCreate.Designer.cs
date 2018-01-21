@@ -13,7 +13,7 @@ using HotelReservation.Data.Common;
 namespace HotelReservation.API.Migrations
 {
     [DbContext(typeof(HotelContext))]
-    [Migration("20180121105027_InitialCreate")]
+    [Migration("20180121131105_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -86,7 +86,7 @@ namespace HotelReservation.API.Migrations
 
                     b.HasIndex("DtoReservationId");
 
-                    b.ToTable("DtoReservationStatus");
+                    b.ToTable("ReservationStatuses");
                 });
 
             modelBuilder.Entity("HotelReservation.Models.Entities.DtoRoom", b =>
@@ -147,7 +147,7 @@ namespace HotelReservation.API.Migrations
             modelBuilder.Entity("HotelReservation.Models.Entities.DtoReservationStatus", b =>
                 {
                     b.HasOne("HotelReservation.Models.Entities.DtoReservation")
-                        .WithMany("ReservationStatus")
+                        .WithMany("ReservationStatusList")
                         .HasForeignKey("DtoReservationId");
                 });
 

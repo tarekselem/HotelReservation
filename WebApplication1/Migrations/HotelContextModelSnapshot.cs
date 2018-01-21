@@ -85,7 +85,7 @@ namespace HotelReservation.API.Migrations
 
                     b.HasIndex("DtoReservationId");
 
-                    b.ToTable("DtoReservationStatus");
+                    b.ToTable("ReservationStatuses");
                 });
 
             modelBuilder.Entity("HotelReservation.Models.Entities.DtoRoom", b =>
