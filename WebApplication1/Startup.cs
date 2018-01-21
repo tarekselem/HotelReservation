@@ -27,7 +27,7 @@ namespace HotelReservation.API
         {
             services.AddMvc();
             /////// SystemConfig
-            var connection = @"Password=123;Persist Security Info=True;User ID=task;Initial Catalog=taskDB;Data Source=52.178.217.7";
+            var connection = Properties.Resources.ConnectionString;
             services.AddDbContext<HotelContext>(options => options.UseSqlServer(connection));
         }
 
