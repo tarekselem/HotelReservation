@@ -1,0 +1,15 @@
+D:\HotelReservation\HotelReservation.Bo\bin\Debug\netstandard2.0\HotelReservation.Bo.deps.json
+D:\HotelReservation\HotelReservation.Bo\bin\Debug\netstandard2.0\HotelReservation.Bo.dll
+D:\HotelReservation\HotelReservation.Bo\bin\Debug\netstandard2.0\HotelReservation.Bo.pdb
+D:\HotelReservation\HotelReservation.Bo\bin\Debug\netstandard2.0\HotelReservation.Data.Common.dll
+D:\HotelReservation\HotelReservation.Bo\bin\Debug\netstandard2.0\HotelReservation.Data.Repositories.dll
+D:\HotelReservation\HotelReservation.Bo\bin\Debug\netstandard2.0\HotelReservation.Models.dll
+D:\HotelReservation\HotelReservation.Bo\bin\Debug\netstandard2.0\HotelReservation.Data.Common.pdb
+D:\HotelReservation\HotelReservation.Bo\bin\Debug\netstandard2.0\HotelReservation.Data.Repositories.pdb
+D:\HotelReservation\HotelReservation.Bo\bin\Debug\netstandard2.0\HotelReservation.Models.pdb
+D:\HotelReservation\HotelReservation.Bo\obj\Debug\netstandard2.0\HotelReservation.Bo.csprojResolveAssemblyReference.cache
+D:\HotelReservation\HotelReservation.Bo\obj\Debug\netstandard2.0\HotelReservation.Bo.csproj.CoreCompileInputs.cache
+D:\HotelReservation\HotelReservation.Bo\obj\Debug\netstandard2.0\HotelReservation.Bo.AssemblyInfoInputs.cache
+D:\HotelReservation\HotelReservation.Bo\obj\Debug\netstandard2.0\HotelReservation.Bo.AssemblyInfo.cs
+D:\HotelReservation\HotelReservation.Bo\obj\Debug\netstandard2.0\HotelReservation.Bo.dll
+D:\HotelReservation\HotelReservation.Bo\obj\Debug\netstandard2.0\HotelReservation.Bo.pdb
