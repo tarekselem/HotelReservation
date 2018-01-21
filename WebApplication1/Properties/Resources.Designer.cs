@@ -59,5 +59,14 @@ namespace HotelReservation.API.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Password=123;Persist Security Info=True;User ID=task;Initial Catalog=taskDB;Data Source=52.178.217.7.
+        /// </summary>
+        internal static string ConnectionString {
+            get {
+                return ResourceManager.GetString("ConnectionString", resourceCulture);
+            }
+        }
     }
 }

@@ -9,7 +9,6 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using HotelReservation.Models;
-using HotelReservation.Bo;
 using Microsoft.EntityFrameworkCore;
 
 namespace HotelReservation.API
