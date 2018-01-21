@@ -9,7 +9,7 @@ namespace HotelReservation.Models.Entities
         public DtoRoom Room { get; set; }
         public DateTime ArrivalDate { get; set; }
         public DateTime DepartureDate { get; set; }
-        public ICollection<DtoReservationStatus> ReservationStatus { get; set; }
+        public ICollection<DtoReservationStatus> ReservationStatusList { get; set; }
     }
 
     public class DtoReservationStatus : BaseEntity
