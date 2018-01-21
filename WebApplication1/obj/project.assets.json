@@ -5031,7 +5031,7 @@
       },
       "HotelReservation.Bo/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
           "HotelReservation.Data.Common": "1.0.0",
           "HotelReservation.Data.Repositories": "1.0.0",
@@ -5046,7 +5046,7 @@
       },
       "HotelReservation.Data.Common/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
           "HotelReservation.Models": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.0.1"
@@ -5060,7 +5060,7 @@
       },
       "HotelReservation.Data.Repositories/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
           "HotelReservation.Data.Common": "1.0.0",
           "HotelReservation.Models": "1.0.0"
@@ -5074,7 +5074,7 @@
       },
       "HotelReservation.Models/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
           "System.ComponentModel.Annotations": "4.4.1"
         },
