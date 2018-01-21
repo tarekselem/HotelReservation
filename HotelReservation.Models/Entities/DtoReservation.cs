@@ -11,9 +11,4 @@ namespace HotelReservation.Models.Entities
         public DateTime DepartureDate { get; set; }
         public ICollection<DtoReservationStatus> ReservationStatusList { get; set; }
     }
-
-    public class DtoReservationStatus : BaseEntity
-    {
-        public ReservationStatus ReservationStatus { get; set; }
-    }
 }
