@@ -1,0 +1,11 @@
+D:\HotelReservation\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+D:\HotelReservation\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+D:\HotelReservation\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+D:\HotelReservation\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+D:\HotelReservation\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+D:\HotelReservation\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+D:\HotelReservation\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\HotelReservation\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+D:\HotelReservation\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+D:\HotelReservation\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+D:\HotelReservation\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb

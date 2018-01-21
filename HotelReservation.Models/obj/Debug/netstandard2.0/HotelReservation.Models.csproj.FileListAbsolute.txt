@@ -20,3 +20,4 @@ D:\HotelReservation\HotelReservation.Models\obj\Debug\netstandard2.0\HotelReserv
 D:\HotelReservation\HotelReservation.Models\obj\Debug\netstandard2.0\HotelReservation.Models.AssemblyInfo.cs
 D:\HotelReservation\HotelReservation.Models\obj\Debug\netstandard2.0\HotelReservation.Models.dll
 D:\HotelReservation\HotelReservation.Models\obj\Debug\netstandard2.0\HotelReservation.Models.pdb
+D:\HotelReservation\HotelReservation.Models\obj\Debug\netstandard2.0\HotelReservation.Models.csprojResolveAssemblyReference.cache
