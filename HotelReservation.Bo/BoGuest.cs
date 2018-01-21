@@ -1,4 +1,5 @@
-﻿using HotelReservation.Models.Entities;
+﻿using System.Collections.Generic;
+using HotelReservation.Models.Entities;
 
 namespace HotelReservation.Bo
 {
@@ -14,6 +15,11 @@ namespace HotelReservation.Bo
             };
             Repository.Insert(dtoGuest);
             return dtoGuest;
+        }
+
+        public IEnumerable<DtoReservationStatus> Browse(DtoReservation reservation)
+        {
+            return reservation.ReservationStatusList;
         }
     }
 }
