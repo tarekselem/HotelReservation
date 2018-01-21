@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "4148ddcc0c0faa1b90b62d186d4afe9cb7c15ade"
+    "signature": "ae7ff6dd5a7a5a3f44eccadffcb640eacac9fe6f"
   },
   "compilationOptions": {
     "defines": [
@@ -4043,6 +4043,20 @@
           "System.Xml.XPath": "4.3.0"
         }
       },
+      "Unity/5.5.5": {
+        "runtime": {
+          "lib/netcoreapp1.0/CommonServiceLocator.dll": {},
+          "lib/netcoreapp1.0/Unity.Abstractions.dll": {},
+          "lib/netcoreapp1.0/Unity.Container.dll": {},
+          "lib/netcoreapp1.0/Unity.ServiceLocation.dll": {}
+        },
+        "compile": {
+          "lib/netcoreapp1.0/CommonServiceLocator.dll": {},
+          "lib/netcoreapp1.0/Unity.Abstractions.dll": {},
+          "lib/netcoreapp1.0/Unity.Container.dll": {},
+          "lib/netcoreapp1.0/Unity.ServiceLocation.dll": {}
+        }
+      },
       "WindowsAzure.Storage/8.1.4": {
         "dependencies": {
           "Microsoft.Data.OData": "5.8.2",
@@ -4061,7 +4075,8 @@
         "dependencies": {
           "HotelReservation.Data.Common": "1.0.0",
           "HotelReservation.Data.Repositories": "1.0.0",
-          "HotelReservation.Models": "1.0.0"
+          "HotelReservation.Models": "1.0.0",
+          "Unity": "5.5.5"
         },
         "runtime": {
           "HotelReservation.Bo.dll": {}
@@ -6409,6 +6424,13 @@
       "sha512": "sha512-jw9oHHEIVW53mHY9PgrQa98Xo2IZ0ZjrpdOTmtvk+Rvg4tq7dydmxdNqUvJ5YwjDqhn75mBXWttWjiKhWP53LQ==",
       "path": "system.xml.xpath.xdocument/4.3.0",
       "hashPath": "system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
+    },
+    "Unity/5.5.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kg101Re8N7rzTro2G5n6k9j15MpuRQQ+4MjmDY36RL/ewCa93f2ZOp8Mayl6Ou0d/AGf9YVEK4r7uCpNV6fczQ==",
+      "path": "unity/5.5.5",
+      "hashPath": "unity.5.5.5.nupkg.sha512"
     },
     "WindowsAzure.Storage/8.1.4": {
       "type": "package",

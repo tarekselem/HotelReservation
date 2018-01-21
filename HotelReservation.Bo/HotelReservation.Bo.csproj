@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Unity" Version="5.5.5" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\HotelReservation.Data.Common\HotelReservation.Data.Common.csproj" />
     <ProjectReference Include="..\HotelReservation.Data.Repositories\HotelReservation.Data.Repositories.csproj" />
     <ProjectReference Include="..\HotelReservation.Models\HotelReservation.Models.csproj" />

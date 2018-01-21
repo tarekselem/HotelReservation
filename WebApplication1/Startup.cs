@@ -20,6 +20,7 @@ namespace HotelReservation.API
         {
             services.AddMvc();
             SystemConfig.ConfigureDb(services, Properties.Resources.ConnectionString);
+            UnityConfiguration.RegisterTypes();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
