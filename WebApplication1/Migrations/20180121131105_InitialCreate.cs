@@ -93,7 +93,7 @@ namespace HotelReservation.API.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "DtoReservationStatus",
+                name: "ReservationStatuses",
                 columns: table => new
                 {
                     Id = table.Column<Guid>(nullable: false),
@@ -104,19 +104,14 @@ namespace HotelReservation.API.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_DtoReservationStatus", x => x.Id);
+                    table.PrimaryKey("PK_ReservationStatuses", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_DtoReservationStatus_Reservations_DtoReservationId",
+                        name: "FK_ReservationStatuses_Reservations_DtoReservationId",
                         column: x => x.DtoReservationId,
                         principalTable: "Reservations",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Restrict);
                 });
-
-            migrationBuilder.CreateIndex(
-                name: "IX_DtoReservationStatus_DtoReservationId",
-                table: "DtoReservationStatus",
-                column: "DtoReservationId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Reservations_GuestId",
@@ -129,6 +124,11 @@ namespace HotelReservation.API.Migrations
                 column: "RoomId");
 
             migrationBuilder.CreateIndex(
+                name: "IX_ReservationStatuses_DtoReservationId",
+                table: "ReservationStatuses",
+                column: "DtoReservationId");
+
+            migrationBuilder.CreateIndex(
                 name: "IX_Rooms_RoomTypeId",
                 table: "Rooms",
                 column: "RoomTypeId");
@@ -137,7 +137,7 @@ namespace HotelReservation.API.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "DtoReservationStatus");
+                name: "ReservationStatuses");
 
             migrationBuilder.DropTable(
                 name: "Reservations");
